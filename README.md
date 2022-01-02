@@ -1,2 +1,2 @@
 # balancing_robot 
-This is a project to understand basic laws of control theory. It uses mpu6050 dmp to read angle values. TB6612 as a motor driver.And arduino nano to calculate pid values. It also has a bluetooth access so i can visualise any values in the Matlab. 
+This is a project to understand fundementals of control theory. It uses MPU6050 dmp to read angle values. TB6612 as a motor driver.And Arduino Nano to calculate PID values. It also has a bluetooth access so i can send and visualise values in the Matlab. 
